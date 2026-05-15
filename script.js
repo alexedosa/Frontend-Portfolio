@@ -106,12 +106,12 @@
     if (!el) return;
 
     const phrases = [
-      'Junior Frontend Dev',
-      'HTML · CSS · JavaScript · Next.js· React.js',
-      'Just building stuff that works',
-      'Learning by shipping real projects',
-      'Clean UI > unnecessary complexity',
-      'Alex Codes :\n)'
+      'Frontend Developer · React & Next.js',
+      'Building Scalable Web Applications',
+      'Performance First · Clean Code',
+      'User Experience Focused',
+      'Production-Ready Solutions',
+      'Let\'s build something great'
     ];
 
     let phraseIdx = 0;
